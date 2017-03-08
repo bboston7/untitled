@@ -11,3 +11,7 @@ a {
   font-size: 15em;
   transform: translate(-50%, -80%);
 }
+
+a:visited {
+  color: blue;
+}
