@@ -1,3 +1,9 @@
+<?php
+  $dirs = glob('*', GLOB_ONLYDIR);
+  $index = rand(0, count($dirs)-1);
+  $linky = $dirs[$index];
+?>
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -5,7 +11,7 @@
   </head>
   <body>
     <div>
-      <a href="0001/index.html">....</a>
+      <a href="<?=$linky?>/">....</a>
     </div>
   </body>
 </html>
