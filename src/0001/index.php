@@ -1,3 +1,7 @@
+<?php
+  require("../common.php");
+?>
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -33,7 +37,7 @@
       !!!
     </p>
     <p>
-      &gt;
+      <a href="<?=$linky?>">&gt;</a>
     </p>
   </body>
 </html>
