@@ -14,7 +14,7 @@
 <?php
       for ($i = 0; $i < $ITERS; ++$i) {
         $spaces = rand(0, $MAX);
-        $char = $CHARS[rand(1, count($CHARS))];
+        $char = $CHARS[rand(0, count($CHARS)-1)];
         for ($j = 0; $j < $spaces; ++$j) {
 ?>
           &nbsp;
