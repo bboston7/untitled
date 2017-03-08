@@ -1,0 +1,16 @@
+body {
+  background-color: GreenYellow;
+  font-family: "dejavu serif", serif;
+}
+
+.leaf {
+  color: DarkGreen;
+}
+
+.trunk {
+  color: SaddleBrown;
+}
+
+a {
+  color: black;
+}
