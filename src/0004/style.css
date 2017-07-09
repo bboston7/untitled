@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "dejavu serif", serif;
+  font-style: italic;
+  font-size: 3em;
+}
+
+a {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size:2em;
+  transform: translate(-50%, -80%);
+}
