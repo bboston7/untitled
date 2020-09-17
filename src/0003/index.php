@@ -27,7 +27,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="/0003/style.css">
   </head>
   <body>
 <?php
