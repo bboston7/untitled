@@ -1,0 +1,10 @@
+body {
+  background-color: Pink;
+  color: Red;
+  font-family: "dejavu sans", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: Red;
+}
